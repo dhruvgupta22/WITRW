@@ -6,3 +6,4 @@ https://www.kaggle.com/competitions/who-is-the-real-winner/overview
 #### Training dataset, Test dataset, and Sample Submission can be found in the Data directory.
 #### Code for generating graphs for report is present in generate_plots.ipynb
 #### Plots generated and added in report can be found in Plots directory.
+#### Report is present in the file report.pdf
